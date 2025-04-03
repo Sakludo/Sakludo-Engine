@@ -12,7 +12,7 @@ Sakludo Engine is a high-performance chess engine designed to provide accurate a
 
 Below are the available versions of Sakludo Engine:
 
-### [v1.2.2](#)
+### [v1.2.2](versions/Sakludo Engine v1.2.2)
 - **Release Date:** February 6, 2025
 - **Description:** Implemented long and short castling and chess notation.
 - **Download Links:**  
@@ -22,7 +22,7 @@ Below are the available versions of Sakludo Engine:
 
 ---
 
-### [v1.2.1](#)
+### [v1.2.1](versions/Sakludo Engine v1.2.1)
 - **Release Date:** January 23, 2025
 - **Description:** Added pieces and their movement functionality.
 - **Download Links:**  
@@ -32,7 +32,7 @@ Below are the available versions of Sakludo Engine:
 
 ---
 
-### [v1.2.0](#)
+### [v1.2.0](versions/Sakludo Engine v1.2.0)
 - **Release Date:** January 9, 2025
 - **Description:** Builded a simple chessboard GUI for further development and project initiation.
 - **Download Links:**  
@@ -60,7 +60,7 @@ Sakludo Engine is licensed under the [MIT License](LICENSE). You can freely use,
 
 We welcome feedback, bug reports, and contributions to improve the engine. If you encounter any issues or have feature suggestions, please feel free to:
 
-- Write to us through the contact form on our website (For now, there's nothing here.).
+- Write to us through the contact form on our website - (For now, there's nothing here.).
 - Write to us directly at our email address - (For now, there's nothing here.)
 
 Thank you for using Sakludo Engine!
