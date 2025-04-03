@@ -1,0 +1,12 @@
+To install the engine, simply download the folder with the selected version, extract it to the desktop, and open the .exe file.
+
+How to install Python and the required libraries?:
+
+- Python installation (Windows):
+Open cmd and enter the command - winget install Python.Python.3.10
+or download the installer manually from the website: https://www.python.org/downloads/
+(To run Python, any environment is required, such as Visual Studio Code or PyCharm.)
+
+Installation of required libraries:
+
+- pip install pygame (cmd)

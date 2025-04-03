@@ -1,0 +1,6 @@
+Python 3.10+
+
+Libraries used in the project:
+
+- pygame (For rendering the chessboard and user interaction.)
+- sys (For handling application shutdown.)
