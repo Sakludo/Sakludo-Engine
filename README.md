@@ -1,4 +1,4 @@
-<img src ="src/assets/icon/icon.png" width="200px">
+<img src ="src/assets/icon/icon.png" width="200px" style="text-align: center;">
 
 ## Sakludo Engine - Chess Engine
 
