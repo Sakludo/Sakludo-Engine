@@ -1,5 +1,6 @@
-<img src ="src/assets/icon/icon.png">
-# Sakludo Engine - Chess Engine
+<img src ="src/assets/icon/icon.png" width="200px">
+
+## Sakludo Engine - Chess Engine
 
 Sakludo Engine is a high-performance chess engine designed to provide accurate analysis and efficient problem-solving. Each new release introduces improvements, bug fixes, and optimizations to ensure a better experience for both developers and chess enthusiasts.
 
